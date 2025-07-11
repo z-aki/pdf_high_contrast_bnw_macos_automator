@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>convert_pdf_image_bnw</string>
+				<string>pdf_high_contrast</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>

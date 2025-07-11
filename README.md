@@ -14,6 +14,5 @@ The temporary file will be in `/tmp` folder
 
 <!-- img_right_click_pdf.png -->
 ![Right Click PDF](img_right_click_pdf.png)
-
-
+![Comparison](img_compare.png)
 ![System Preferences](img_sys_pref.png)
