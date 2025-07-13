@@ -23,16 +23,14 @@ The resulting images will be in the same folder as the first image file with the
 
 With github account: watch button on the top right of the repository page.
 
-Without github account: RSS feed <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/square-rss.svg" width="50" height="50">
+Without github account: RSS feed
 
- https://github.com/z-aki/pdf_high_contrast_bnw_macos_automator/releases.atom
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/square-rss.svg" width="50" height="50">
+
+https://github.com/z-aki/pdf_high_contrast_bnw_macos_automator/releases.atom
 
 ## Screenshots:
 
-> ![Right Click PDF](img_right_click_pdf.png)
-> ![Comparison](img_compare.png)
-> ![System Preferences](img_sys_pref.png)
-
-## functioning
-
-> ![Functioning](https://raw.githubusercontent.com/z-aki/pdf_high_contrast_bnw_macos_automator/main/pdf_high_contrast.workflow/Contents/QuickLook/Preview.png)
+![Right Click PDF](img_right_click_pdf.png)
+![Comparison](img_compare.png)
+![System Preferences](img_sys_pref.png)
